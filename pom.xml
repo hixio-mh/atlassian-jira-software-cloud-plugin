@@ -5,7 +5,7 @@
         <groupId>org.jenkins-ci.plugins</groupId>
         <artifactId>plugin</artifactId>
         <version>3.41</version>
-        <relativePath />
+        <relativePath/>
     </parent>
     <groupId>com.atlassian.jira.software.cloud.jenkins</groupId>
     <artifactId>atlassian-jira-software-cloud</artifactId>
@@ -25,7 +25,7 @@
         <assertj.version>3.11.1</assertj.version>
         <maven-checkstyle-plugin.version>2.17</maven-checkstyle-plugin.version>
         <archunit.version>0.9.2</archunit.version>
-        <resilience4j.version>1.4.0</resilience4j.version>
+        <resilience4j.version>1.6.1</resilience4j.version>
         <slf4j.version>1.7.26</slf4j.version>
     </properties>
     <name>Atlassian Jira Software Cloud</name>
