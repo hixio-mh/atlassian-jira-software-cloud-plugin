@@ -5,7 +5,7 @@
         <groupId>org.jenkins-ci.plugins</groupId>
         <artifactId>plugin</artifactId>
         <version>3.41</version>
-        <relativePath />
+        <relativePath/>
     </parent>
     <groupId>com.atlassian.jira.software.cloud.jenkins</groupId>
     <artifactId>atlassian-jira-software-cloud</artifactId>
@@ -110,7 +110,7 @@
         <dependency>
             <groupId>com.fasterxml.jackson.core</groupId>
             <artifactId>jackson-core</artifactId>
-            <version>${jackson.version}</version>
+            <version>2.13.0</version>
         </dependency>
         <dependency>
             <groupId>com.fasterxml.jackson.core</groupId>
